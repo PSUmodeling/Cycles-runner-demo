@@ -1,0 +1,36 @@
+TILLAGE
+YEAR                1
+DOY                 1
+TOOL                MixResidue
+DEPTH               0.18        # m
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0.66
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                1
+DOY                 $PD1
+TOOL                Planter_double_disk_opnr
+DEPTH               0.07        # m
+SOIL_DISTURB_RATIO  5
+MIXING_EFFICIENCY   0.071554
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+PLANTING
+YEAR                1
+DOY                 $PD1
+END_DOY             $PD2
+MAX_SMC             1.05        # m3/m3
+MIN_SMC             0.5         # m3/m3
+MAX_SOIL_TEMP       -999        # degree C
+MIN_SOIL_TEMP       $SOIL_TEMP  # degree C
+CROP                $CROP
+USE_AUTO_IRR        0
+USE_AUTO_FERT       1
+DENSITY             1.0
+CLIPPING_START      1
+CLIPPING_END        366

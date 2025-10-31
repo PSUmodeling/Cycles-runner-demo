@@ -1,0 +1,4 @@
+GID,latitude,longitude,soil,weather,maize_plant_start,maize_plant_end,sorghum_plant_start,sorghum_plant_end,thermal_time,relative_maturity_group
+USA.14.100_1,41.45,-87.98,USA.14.100_1_rainfed_SoilGrids.soil,NLDAS_41.438Nx87.938W.weather,112,148,140,181,2671.19,110
+USA.14.101_1,37.72,-88.91,USA.14.101_1_rainfed_SoilGrids.soil,NLDAS_37.688Nx88.938W.weather,112,148,140,181,3567.43,115
+USA.14.102_1,42.35,-89.16,USA.14.102_1_rainfed_SoilGrids.soil,NLDAS_42.312Nx89.188W.weather,112,148,140,181,2529.50,105

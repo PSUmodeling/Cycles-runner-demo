@@ -1,0 +1,26 @@
+# Cycles soil file for rainfed cropland in Winnebago, Illinois
+#
+# Clay, sand, soil organic carbon, and bulk density are obtained from SoilGrids.
+# Hydrologic soil group, slope, and soil depth are obtained from gSSURGO.
+# The data are sampled at Latitude 42.3455, Longitude -89.1557.
+# NO3, NH4, and fractions of horizontal and vertical bypass flows are default empirical values.
+#
+# Hydrologic soil group B.
+# The curve number for row crops with straight row treatment is used.
+CURVE_NUMBER   	78
+SLOPE          	3.82
+TOTAL_LAYERS   	12
+LAYER  	THICK  	CLAY   	SAND   	SOC    	BD     	FC     	PWP    	SON    	NO3    	NH4    	BYP_H  	BYP_V
+#      	m      	%      	%      	%      	Mg/m3  	m3/m3  	m3/m3  	kg/ha  	kg/ha  	kg/ha  	-      	-
+1      	0.05   	29.2   	8.3    	4.13   	1.36   	-999   	-999   	-999   	10.0   	1.0    	0.0    	0.0
+2      	0.05   	29.9   	8.0    	2.19   	1.47   	-999   	-999   	-999   	10.0   	1.0    	0.0    	0.0
+3      	0.10   	30.6   	8.0    	1.68   	1.47   	-999   	-999   	-999   	7.0    	1.0    	0.0    	0.0
+4      	0.20   	32.7   	8.2    	1.23   	1.53   	-999   	-999   	-999   	4.0    	1.0    	0.0    	0.0
+5      	0.20   	34.1   	8.5    	1.30   	1.59   	-999   	-999   	-999   	2.0    	1.0    	0.0    	0.0
+6      	0.20   	34.6   	14.6   	0.58   	1.62   	-999   	-999   	-999   	1.0    	1.0    	0.0    	0.0
+7      	0.20   	34.6   	14.6   	0.58   	1.62   	-999   	-999   	-999   	1.0    	1.0    	0.0    	0.0
+8      	0.20   	30.0   	21.6   	0.68   	1.68   	-999   	-999   	-999   	1.0    	1.0    	0.0    	0.0
+9      	0.20   	30.0   	21.6   	0.68   	1.68   	-999   	-999   	-999   	1.0    	1.0    	0.0    	0.0
+10     	0.20   	30.0   	21.6   	0.68   	1.68   	-999   	-999   	-999   	1.0    	1.0    	0.0    	0.0
+11     	0.20   	30.0   	21.6   	0.68   	1.68   	-999   	-999   	-999   	1.0    	1.0    	0.0    	0.0
+12     	0.20   	30.0   	21.6   	0.68   	1.68   	-999   	-999   	-999   	1.0    	1.0    	0.0    	0.0

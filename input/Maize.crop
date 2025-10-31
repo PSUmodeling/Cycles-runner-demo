@@ -1,0 +1,659 @@
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.70
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                700         # (degree C day)
+MATURITY_TT                                 1300        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.75
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                775         # (degree C day)
+MATURITY_TT                                 1425        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.80
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                850         # (degree C day)
+MATURITY_TT                                 1550        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.85
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                925         # (degree C day)
+MATURITY_TT                                 1675        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.90
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                1000        # (degree C day)
+MATURITY_TT                                 1800        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.95
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                1075        # (degree C day)
+MATURITY_TT                                 1925        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.100
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                1150        # (degree C day)
+MATURITY_TT                                 2050        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.105
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                1225        # (degree C day)
+MATURITY_TT                                 2175        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.110
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                1300        # (degree C day)
+MATURITY_TT                                 2300        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
+
+####################################################
+# CROP DESCRIPTION                                 #
+####################################################
+NAME                                        MaizeRM.115
+                            # Phenology
+THERMAL_TIME_TO_EMERGENCE                   65          # (degree C day)
+FLOWERING_TT                                1375        # (degree C day)
+MATURITY_TT                                 2425        # (degree C day)
+BASE_TEMPERATURE_FOR_DEVELOPMENT            6           # (degree C)
+OPTIMUM_TEMPERATURE_FOR_DEVELOPMENT         28          # (degree C)
+MAX_TEMPERATURE_FOR_DEVELOPMENT             46          # (degree C)
+PHOTOPERIOD_MIN                             -999
+PHOTOPERIOD_MAX                             -999
+THERMAL_TIME_VERNALIZATION                  -999
+THERMAL_TIME_FLOWERING_AT_PMAX              -999
+THERMAL_TIME_GRAIN_FILLING                  -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_LOWER   -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_OPTIMAL -999
+VERNALIZATION_TEMPERATURE_THRESHOLD_UPPER   -999
+TEMPERATURE_POST_FLOWERING_LOWER            -999
+TEMPERATURE_POST_FLOWERING_OPTIMAL          -999
+TEMPERATURE_POST_FLOWERING_UPPER            -999
+DEVERNALIZATION_TEMPERATURE                 -999
+                            # Allocation
+INITIAL_PARTITIONING_TO_SHOOT               0.45        # (100%)
+FINAL_PARTITIONING_TO_SHOOT                 0.95        # (100%)
+MAXIMUM_HARVEST_INDEX                       0.8         # (-)
+MINIMUM_HARVEST_INDEX                       0.15        # (-)
+HARVEST_INDEX_SLOPE_MULTIPLIER              1.0         # (-)
+N_MAX_CONCENTRATION_GRAIN                   3.0         # (%)
+N_MIN_CONCENTRATION_GRAIN                   0.7         # (%)
+N_MAX_CONCENTRATION_STRAW                   1.5         # (%)
+N_MIN_CONCENTRATION_STRAW                   0.2         # (%)
+N_PARTITIONING_FACTOR                       -0.12       # (-)
+                            # Root
+MAXIMUM_ROOTING_DEPTH                       2           # (m)
+                            # Growth
+RADIATION_USE_EFFICIENCY                    2.2         # (g/MJ solar radiation)
+TRANSPIRATION_USE_EFFICIENCY                8.7         # (g/kg)
+                            # Transpiration
+MIN_TEMPERATURE_FOR_TRANSPIRATION           3           # (degree C)
+THRESHOLD_TEMPERATURE_FOR_TRANSPIRATION     15          # (degree C)
+KC                                          1.1         # (-)
+LWP_STRESS_ONSET                            -1100       # (J/kg)
+LWP_WILTING_POINT                           -2000       # (J/kg)
+TRANSPIRATION_MAX                           10          # (mm/day)
+                            # Stress
+MIN_TEMPERATURE_FOR_COLD_DAMAGE             -5          # (degree C)
+THRESHOLD_TEMPERATURE_FOR_COLD_DAMAGE       3           # (degree C)
+                            # Nutrition
+N_MAX_CONCENTRATION                         0.055       # (g/g)
+N_DILUTION_SLOPE                            0.4         # (-)
+                            # Classification
+ANNUAL                                      1           # (-)
+LEGUME                                      0           # (-)
+C3                                          0           # (-)
+                            # Management
+MAXIMUM_SOIL_COVERAGE                       100         # (%)
+STANDING_RESIDUE_AT_HARVEST                 50          # (%)
+RESIDUE_REMOVED                             0           # (%)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
+CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
+HARVEST_TIMING                              -999        # (%)
+KILL_AFTER_HARVEST                          1           # (-)
