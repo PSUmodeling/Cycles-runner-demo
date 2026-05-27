@@ -1,0 +1,9 @@
+TOOL                MixResidue
+DEPTH               0.18        # m
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0.66
+
+TOOL                Planter_double_disk_opnr
+DEPTH               0.07        # m
+SOIL_DISTURB_RATIO  5
+MIXING_EFFICIENCY   0.071554

@@ -1,0 +1,389 @@
+FERTILIZER          Nitrate
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0           # kg/kg
+N_NO3               1           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          Ammonium
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               1           # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          Phosphorus
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0           # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         1           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          Potassium
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0           # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   1           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          Sulphur
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0           # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   1           # kg/kg
+
+FERTILIZER          Urea
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.46        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          82-00-00_Anhydrous_Ammonia
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.82        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          32-00-00_Urea_Ammonium_Nitrate_Solution
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.24        # kg/kg
+N_NO3               0.08        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          21-00-00_Ammonium_Sulfate
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.21        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0.24        # kg/kg
+
+FERTILIZER          18-46-00_Di-Ammonium_Phoshate
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.18        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.202       # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          13-00-44_Potassium_Nitrate
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.13        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0.44        # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          30-15-00
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.3         # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.066       # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          33-00-00_Ammonium_Nitrate
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.165       # kg/kg
+N_NO3               0.165       # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          25-05-00
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0           # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.022       # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          24-06-00
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0           # kg/kg
+N_NO3               0.24        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.026       # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          20-20-20
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0           # kg/kg
+N_NO3               0.2         # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          16-20-20_Potassium_Ammonium_Phosphate
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.16        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.2         # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          15-15-00
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.15        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.066       # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          15-15-15
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.15        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.066       # kg/kg
+K                   0.15        # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          13-13-13
+C_Organic           0           # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0           # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.13        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.057       # kg/kg
+K                   0.13        # kg/kg
+S                   0           # kg/kg
+
+FERTILIZER          Dairy_Manure
+C_Organic           0.43        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.031       # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.007       # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.003       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.005       # kg/kg
+K                   0           # kg/kg
+S                   0.005       # kg/kg
+
+FERTILIZER          Beef_Manure
+C_Organic           0.42        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.03        # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.01        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.007       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0           # kg/kg
+S                   0.004       # kg/kg
+
+FERTILIZER          Veal_Manure
+C_Organic           0.41        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.029       # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.023       # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.007       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.006       # kg/kg
+K                   0           # kg/kg
+S                   0.006       # kg/kg
+
+FERTILIZER          Swine_Manure
+C_Organic           0.25        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.021       # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.026       # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.005       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.011       # kg/kg
+K                   0           # kg/kg
+S                   0.0011      # kg/kg
+
+FERTILIZER          Sheep_Manure
+C_Organic           0.29        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.024       # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.014       # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.005       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.003       # kg/kg
+K                   0           # kg/kg
+S                   0.003       # kg/kg
+
+FERTILIZER          Goat_Manure
+C_Organic           0.26        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.022       # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.013       # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.005       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.003       # kg/kg
+K                   0           # kg/kg
+S                   0.003       # kg/kg
+
+FERTILIZER          Horse_Manure
+C_Organic           0.28        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.014       # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.006       # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.003       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.001       # kg/kg
+K                   0           # kg/kg
+S                   0.001       # kg/kg
+
+FERTILIZER          Chicken_Manure
+C_Organic           0.44        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.04        # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.01        # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.01        # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0           # kg/kg
+S                   0.004       # kg/kg
+
+FERTILIZER          Turkey_Manure
+C_Organic           0.44        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.045       # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.007       # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0.016       # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0.003       # kg/kg
+K                   0           # kg/kg
+S                   0.003       # kg/kg
+
+FERTILIZER          Bedded_Pack_Manure
+C_Organic           0.26        # kg/kg
+C_Charcoal          0           # kg/kg
+N_Organic           0.0087      # kg/kg
+N_Charcoal          0           # kg/kg
+N_NH4               0.0027      # kg/kg
+N_NO3               0           # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg

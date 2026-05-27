@@ -54,15 +54,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -120,15 +111,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -186,15 +168,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -252,15 +225,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -318,15 +282,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -384,15 +339,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -450,15 +396,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -516,15 +453,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -582,15 +510,6 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
 
 ####################################################
 # CROP DESCRIPTION                                 #
@@ -648,12 +567,3 @@ N_DILUTION_SLOPE                            0.4         # (-)
 ANNUAL                                      1           # (-)
 LEGUME                                      0           # (-)
 C3                                          0           # (-)
-                            # Management
-MAXIMUM_SOIL_COVERAGE                       100         # (%)
-STANDING_RESIDUE_AT_HARVEST                 50          # (%)
-RESIDUE_REMOVED                             0           # (%)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.5         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_DESTINY                    REMOVE      # (-)
-HARVEST_TIMING                              -999        # (%)
-KILL_AFTER_HARVEST                          1           # (-)
