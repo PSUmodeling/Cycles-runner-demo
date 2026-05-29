@@ -12,11 +12,16 @@ echo "Job started on `hostname` at `date`"
 jobstart=`date +%s`
 
 # Activate your Python3 environment
-#source activate my_root
-module load python/3.11.2
+# If you are using Anaconda, you can uncomment the following lines. Make sure to replace anaconda version and
+# `cycles_env` with the actual version and name of your Anaconda environment.
+module load anaconda/2023.09
+conda activate cycles_env
+# If you are using Python3 without Anaconda, you can load the Python module directly. Make sure to replace the version
+# with the actual version of Python you want to use.
+#module load python/3.11.2
 
 # Run Python script
-python3 ./run_cycles.py 
+python3 ./run_cycles.py
 
 # Print job end time and total time cost to log
 jobend=`date +%s`
